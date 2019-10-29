@@ -1,12 +1,12 @@
-# _Count By App_
+# _Palindrome Finder_
 
-#### _Form that allows user to see how to count up to a certain number, created October 28, 2019_
+#### _Form that allows user to see whether their entry meets the definition of palindrome (i.e., reads the same forward or backward), created October 28, 2019_
 
 #### By _**Duncan Robbins and Lara Bjork**_
 
 ## Description
 
-_This was an in-class project at Epicodus to practice for loops. The task was described as: "Create a program that takes two numbers - one to count to and another to determine what multiple to use to get there."_
+_This was an in-class project at Epicodus to practice arrays and looping. We also included if-else if-else statements. The task was described as: "A palindrome is any word, phrase, number, or other sequence of characters which reads the same backward or forward. Create a web page to identify whether or not a word is a palindrome. Bonus points: Make your code check a string of words. For example: "Hello olleH" is a palindrome by our definition."_
 
 
 ## Setup/Installation Requirements
