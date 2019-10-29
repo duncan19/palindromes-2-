@@ -5,9 +5,22 @@
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/jquery-3.4.1.js"></script>
     <script src="js/scripts.js" ></script>
-    <title></title>
+    <title>Palindromes</title>
   </head>
   <body>
+    <div class="container">
+      <form id="userWordForm">
+        <label for="userWord">input a sentence here</label>
+        <input type="text" class="form-control" id="userWord" required="true">
+        <button type="submit" name="button">Find out!</button>
+      </form>
 
+
+        <span id="true">Congratulations! You entered <span class="originalEntry"></span>, and it is a palindrome.</span>
+
+        <span id="false">Sorry! You entered <span class="originalEntry"></span>, and it is not a palindrome.</span><br>
+        <button type="button" name="button" id="resultsPage">Insert another word/phrase</button>
+
+    </div>
   </body>
 </html>
